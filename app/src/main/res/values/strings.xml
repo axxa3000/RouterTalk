@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RouterTalk</string>
+    <string name="off">Guest-wifi Off</string>
+    <string name="on">Guest-wifi On</string>
+    <string name="local">Local</string>
+    <string name="remote">Remote</string>
+    <string name="reboot">Reboot</string>
+</resources>
